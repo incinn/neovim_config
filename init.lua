@@ -5,4 +5,4 @@ require "user.colorscheme"
 require "user.cmp"
 require "user.lsp" -- requiring a directory looks for init.lua
 require "user.telescope"
-
+require "user.treesitter"
