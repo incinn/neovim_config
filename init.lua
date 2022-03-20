@@ -7,3 +7,4 @@ require "user.lsp" -- requiring a directory looks for init.lua
 require "user.telescope"
 require "user.treesitter"
 require "user.autopairs"
+require "user.comment"
