@@ -48,6 +48,7 @@ return packer.startup(function(use)
   use "akinsho/bufferline.nvim"
   use "moll/vim-bbye"
   use "ahmedkhalf/project.nvim"
+  use "lukas-reineke/indent-blankline.nvim"
 
   -- colorschemes
   use "sainnhe/sonokai"

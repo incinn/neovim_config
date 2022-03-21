@@ -13,4 +13,5 @@ require "user.nvim-tree"
 require "user.bufferline"
 require "user.toggleterm"
 require "user.project"
+require "user.indentline"
 
