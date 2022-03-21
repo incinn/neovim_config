@@ -14,4 +14,5 @@ require "user.bufferline"
 require "user.toggleterm"
 require "user.project"
 require "user.indentline"
+require "user.alpha"
 
